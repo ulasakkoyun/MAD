@@ -12,7 +12,7 @@
         android:id="@+id/titleRow1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="My First Android"
+        android:text="@string/my_first_android"
         android:textAlignment="center"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
