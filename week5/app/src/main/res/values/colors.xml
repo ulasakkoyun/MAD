@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="player1_color">#FF5733</color> <!-- A nice orange/red -->
+    <color name="player2_color">#335BFF</color>
+    
+    <!-- ADD THESE TWO LINES -->
+    <color name="player_x_color">#FF5733</color> <!-- A nice red/orange for X -->
+    <color name="player_o_color">#335BFF</color>
 </resources>
